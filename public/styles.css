@@ -1,0 +1,37 @@
+html {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, li, td, th {
+    font-size: 12px;
+}
+
+td, th {
+    padding-right: 20px;
+}
+
+span {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.bold-list-item {
+    font-weight: bold;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.work-title, th {
+    color: rgb(17, 20, 94);
+    font-weight:bolder;
+}
+
+.date {
+    float: right;
+}
+
+.section-heading {
+    color: rgb(31, 36, 194);
+}
